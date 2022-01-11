@@ -1,3 +1,3 @@
 ## Hi there 👋
 - I am interested in programming 😍
-- Python, PHP
+- Currently i work with: Python🐍, PHP
