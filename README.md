@@ -1,2 +1,3 @@
 ## Hi there 👋
-### I am a student at UZHNU in Uzhgorod, Ukraine.
+- I am interested in programming 😍
+- Python, PHP
