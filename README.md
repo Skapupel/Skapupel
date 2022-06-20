@@ -1,5 +1,5 @@
 ## Skapupel _Dev_
-- Currently work with: [![Python](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python)](https://www.python.org/) 🐍
+- Currently work with: [![Python](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python)](https://www.python.org/)
 
 ### Python frameworks and packages that i used:
 - [![Django](https://img.shields.io/badge/Django-darkgreen.svg?style=flat&logo=django)](https://www.djangoproject.com/)
