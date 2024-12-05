@@ -1,4 +1,4 @@
-## Skapupel _Dev_
+## Skapupel Dev
 - Currently work with: [![Python](https://img.shields.io/badge/Python-darkblue.svg?style=flat&logo=python)](https://www.python.org/)
 
 ### Python frameworks and packages that i used:
