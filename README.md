@@ -52,8 +52,3 @@ Professional data analysis and processing:
 - **📋 Data Organization**: Automated sorting, filtering, and cleaning processes
 - **📤 Export Solutions**: Custom XLSX export with formatted business reports
 - **🔍 Data Analysis**: Complex data querying and insight extraction
-
----
-
-## 📍 Location
-📍 **Uzhhorod, Ukraine**
